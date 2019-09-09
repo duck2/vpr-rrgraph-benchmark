@@ -9,7 +9,7 @@ A very simple benchmarking script `run.sh` is provided. Prior to running:
 2. Run the xc7/buttons test in your symbiflow-arch-defs repository.
 	- The instructions for that are provided [here](https://github.com/SymbiFlow/symbiflow-arch-defs/tree/master/xc7/#running-examples).
 3. Edit the script and set paths.
-	- `D2` is the path to the duck2/vtr-verilog-to-routing repository..
+	- `D2` is the path to the duck2/vtr-verilog-to-routing repository.
 	- `SYMB` is the path to your symbiflow-arch-defs repository.
 4. Good to go!
 
